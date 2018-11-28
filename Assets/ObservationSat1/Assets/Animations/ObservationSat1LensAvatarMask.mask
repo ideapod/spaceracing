@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ObservationSat1LensAvatarMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: ObsSat1
+    m_Weight: 0
+  - m_Path: ObsSat1_decals
+    m_Weight: 0
+  - m_Path: ObsSat1_rig
+    m_Weight: 0
+  - m_Path: ObsSat1_rig/Root
+    m_Weight: 0
+  - m_Path: ObsSat1_rig/Root/LenseCover
+    m_Weight: 1
+  - m_Path: ObsSat1_rig/Root/LenseCover/LenseCover_end
+    m_Weight: 1
+  - m_Path: ObsSat1_rig/Root/Panel_1
+    m_Weight: 0
+  - m_Path: ObsSat1_rig/Root/Panel_1/Panel_2
+    m_Weight: 0
+  - m_Path: ObsSat1_rig/Root/Panel_1/Panel_2/Panel_3
+    m_Weight: 0
+  - m_Path: ObsSat1_rig/Root/Panel_1/Panel_2/Panel_3/Panel_3_end
+    m_Weight: 0

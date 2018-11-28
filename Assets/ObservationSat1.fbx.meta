@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: a3136798bcae04ef3848eecef1187030
+timeCreated: 1500205018
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: LenseCover
+    100002: LenseCover_end
+    100004: //RootNode
+    100006: ObsSat1
+    100008: ObsSat1_decals
+    100010: ObsSat1_rig
+    100012: Panel_1
+    100014: Panel_2
+    100016: Panel_3
+    100018: Panel_3_end
+    100020: Root
+    100022: decal_boltsA.lo
+    100024: decal_hingesA.lo
+    100026: decal_holesA.lo
+    100028: decal_rivets.lo
+    100030: decal_screwsA.lo
+    100032: ObsSat.body.lo
+    100034: ObsSat.comsMast1.lo
+    100036: ObsSat.comsMast2.lo
+    100038: ObsSat.fairing.lo
+    100040: ObsSat.optics.lo
+    100042: ObsSat.opticsBase.lo
+    100044: ObsSat.opticsCover.lo
+    100046: ObsSat.opticsCoverBase.lo
+    100048: ObsSat.opticsCoverHinge.lo
+    100050: ObsSat.opticsCPU.lo
+    100052: ObsSat.panel1.lo
+    100054: ObsSat.panel2.lo
+    100056: ObsSat.panel3.lo
+    100058: ObsSat.panelHinges.lo
+    100060: ObsSat.panelMast.lo
+    100062: ObsSat.thrusters.lo
+    400000: LenseCover
+    400002: LenseCover_end
+    400004: //RootNode
+    400006: ObsSat1
+    400008: ObsSat1_decals
+    400010: ObsSat1_rig
+    400012: Panel_1
+    400014: Panel_2
+    400016: Panel_3
+    400018: Panel_3_end
+    400020: Root
+    400022: decal_boltsA.lo
+    400024: decal_hingesA.lo
+    400026: decal_holesA.lo
+    400028: decal_rivets.lo
+    400030: decal_screwsA.lo
+    400032: ObsSat.body.lo
+    400034: ObsSat.comsMast1.lo
+    400036: ObsSat.comsMast2.lo
+    400038: ObsSat.fairing.lo
+    400040: ObsSat.optics.lo
+    400042: ObsSat.opticsBase.lo
+    400044: ObsSat.opticsCover.lo
+    400046: ObsSat.opticsCoverBase.lo
+    400048: ObsSat.opticsCoverHinge.lo
+    400050: ObsSat.opticsCPU.lo
+    400052: ObsSat.panel1.lo
+    400054: ObsSat.panel2.lo
+    400056: ObsSat.panel3.lo
+    400058: ObsSat.panelHinges.lo
+    400060: ObsSat.panelMast.lo
+    400062: ObsSat.thrusters.lo
+    4300000: ObsSat1_decals
+    4300002: ObsSat1
+    4300004: decal_rivets.lo
+    4300006: decal_holesA.lo
+    4300008: decal_hingesA.lo
+    4300010: decal_boltsA.lo
+    4300012: decal_screwsA.lo
+    4300014: ObsSat.panelHinges.lo
+    4300016: ObsSat.panel1.lo
+    4300018: ObsSat.panel2.lo
+    4300020: ObsSat.panel3.lo
+    4300022: ObsSat.opticsCover.lo
+    4300024: ObsSat.opticsCoverHinge.lo
+    4300026: ObsSat.opticsCoverBase.lo
+    4300028: ObsSat.optics.lo
+    4300030: ObsSat.opticsCPU.lo
+    4300032: ObsSat.opticsBase.lo
+    4300034: ObsSat.comsMast1.lo
+    4300036: ObsSat.comsMast2.lo
+    4300038: ObsSat.fairing.lo
+    4300040: ObsSat.body.lo
+    4300042: ObsSat.thrusters.lo
+    4300044: ObsSat.panelMast.lo
+    7400000: ObsSat1_rig|CloseLense
+    7400002: ObsSat1_rig|ExtendPanels
+    7400004: ObsSat1_rig|LenseClosed
+    7400006: ObsSat1_rig|LenseOpened
+    7400008: ObsSat1_rig|OpenLense
+    7400010: ObsSat1_rig|PanelsExtended
+    7400012: ObsSat1_rig|PanelsRetracted
+    7400014: ObsSat1_rig|RetractPanels
+    9500000: //RootNode
+    13700000: ObsSat1
+    13700002: ObsSat1_decals
+    13700004: decal_boltsA.lo
+    13700006: decal_hingesA.lo
+    13700008: decal_holesA.lo
+    13700010: decal_rivets.lo
+    13700012: decal_screwsA.lo
+    13700014: ObsSat.body.lo
+    13700016: ObsSat.comsMast1.lo
+    13700018: ObsSat.comsMast2.lo
+    13700020: ObsSat.fairing.lo
+    13700022: ObsSat.optics.lo
+    13700024: ObsSat.opticsBase.lo
+    13700026: ObsSat.opticsCover.lo
+    13700028: ObsSat.opticsCoverBase.lo
+    13700030: ObsSat.opticsCoverHinge.lo
+    13700032: ObsSat.opticsCPU.lo
+    13700034: ObsSat.panel1.lo
+    13700036: ObsSat.panel2.lo
+    13700038: ObsSat.panel3.lo
+    13700040: ObsSat.panelHinges.lo
+    13700042: ObsSat.panelMast.lo
+    13700044: ObsSat.thrusters.lo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: observationsat1
+  assetBundleVariant: 

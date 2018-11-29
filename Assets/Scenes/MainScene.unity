@@ -335,7 +335,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 534669902}
   m_LocalRotation: {x: 0.08715574, y: 0, z: 0, w: 0.9961947}
-  m_LocalPosition: {x: 0, y: 2.82, z: -9.71}
+  m_LocalPosition: {x: -1.57, y: 5.96, z: -23.71}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -361,7 +361,7 @@ MonoBehaviour:
   vel: {x: 0, y: 0, z: 0}
   vel_phys: {x: 0, y: 0, z: 0}
   initialPos: {x: 0, y: 0, z: 0}
-  initialPhysPosition: {x: 7711190, y: 0, z: 0}
+  initialPhysPosition: {x: 10, y: 0, z: 0}
   automaticParticleCapture: 1
   size: 0.5
   rotateFrame: 0
@@ -377,7 +377,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   paramBy: 0
-  centerObject: {fileID: 617223051}
+  centerObject: {fileID: 330610194}
   ecc: 0
   a_scaled: 10
   p_scaled: 10
@@ -397,7 +397,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4366373810584436, guid: fb5ca71f1fa8ad346b5412deb2b5cda8, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 8.73
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4366373810584436, guid: fb5ca71f1fa8ad346b5412deb2b5cda8, type: 2}
       propertyPath: m_LocalPosition.y

@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: f408c72c9dfa348ca9e7217ea55c4a71
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Avionics module
+    100002: 'Battery housing '
+    100004: Battery module
+    100006: Battery1
+    100008: Battery2
+    100010: Battery3
+    100012: Battery4
+    100014: Camera module
+    100016: Construction
+    100018: //RootNode
+    100020: Engine construction
+    100022: Engine core
+    100024: Engine Module
+    100026: Fuel Tank
+    100028: Magnet 2
+    100030: Magnet1
+    100032: Modules
+    100034: Solar panels
+    100036: Solar panels 1
+    100038: Solar Panels 2
+    100040: Solar Panels 3
+    100042: Solar Panels 4
+    100044: Solar Panels 5
+    400000: Avionics module
+    400002: 'Battery housing '
+    400004: Battery module
+    400006: Battery1
+    400008: Battery2
+    400010: Battery3
+    400012: Battery4
+    400014: Camera module
+    400016: Construction
+    400018: //RootNode
+    400020: Engine construction
+    400022: Engine core
+    400024: Engine Module
+    400026: Fuel Tank
+    400028: Magnet 2
+    400030: Magnet1
+    400032: Modules
+    400034: Solar panels
+    400036: Solar panels 1
+    400038: Solar Panels 2
+    400040: Solar Panels 3
+    400042: Solar Panels 4
+    400044: Solar Panels 5
+    2100000: Solar panel
+    2100002: Black brushed mat
+    2100004: Lens Glass
+    2100006: Avionics module
+    2100008: Battery
+    2100010: Fuel Tank
+    2100012: Magnets
+    2100014: Engine
+    2100016: Construction
+    2300000: Avionics module
+    2300002: 'Battery housing '
+    2300004: Battery1
+    2300006: Battery2
+    2300008: Battery3
+    2300010: Battery4
+    2300012: Camera module
+    2300014: Construction
+    2300016: Engine construction
+    2300018: Engine core
+    2300020: Fuel Tank
+    2300022: Magnet 2
+    2300024: Magnet1
+    2300026: Solar panels 1
+    2300028: Solar Panels 2
+    2300030: Solar Panels 3
+    2300032: Solar Panels 4
+    2300034: Solar Panels 5
+    3300000: Avionics module
+    3300002: 'Battery housing '
+    3300004: Battery1
+    3300006: Battery2
+    3300008: Battery3
+    3300010: Battery4
+    3300012: Camera module
+    3300014: Construction
+    3300016: Engine construction
+    3300018: Engine core
+    3300020: Fuel Tank
+    3300022: Magnet 2
+    3300024: Magnet1
+    3300026: Solar panels 1
+    3300028: Solar Panels 2
+    3300030: Solar Panels 3
+    3300032: Solar Panels 4
+    3300034: Solar Panels 5
+    4300000: Solar panels 1
+    4300002: Solar Panels 2
+    4300004: Solar Panels 3
+    4300006: Solar Panels 4
+    4300008: Solar Panels 5
+    4300010: Camera module
+    4300012: Avionics module
+    4300014: Battery4
+    4300016: Battery3
+    4300018: Battery2
+    4300020: Battery1
+    4300022: 'Battery housing '
+    4300024: Fuel Tank
+    4300026: Magnet 2
+    4300028: Magnet1
+    4300030: Engine core
+    4300032: Engine construction
+    4300034: Construction
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

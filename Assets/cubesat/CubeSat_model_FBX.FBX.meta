@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 884cebc2070b04e7c8a9c1913b54408a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bridge
+    100002: Carcass
+    100004: Ceramic_detail
+    100006: Circuit_board
+    100008: Copper_detail_1
+    100010: Copper_detail_2
+    100012: //RootNode
+    100014: Graphites_detail
+    100016: Hexagon_screws
+    100018: Legs
+    100020: Micro_USB_body
+    100022: Micro_USB_contact
+    100024: Micro_USB_plastic_detail
+    100026: PCB_panel_1
+    100028: PCB_panel_2
+    100030: Resistor_1
+    100032: Resistor_2
+    100034: Solar_panels
+    100036: Solder
+    100038: "\u0421onnector"
+    400000: Bridge
+    400002: Carcass
+    400004: Ceramic_detail
+    400006: Circuit_board
+    400008: Copper_detail_1
+    400010: Copper_detail_2
+    400012: //RootNode
+    400014: Graphites_detail
+    400016: Hexagon_screws
+    400018: Legs
+    400020: Micro_USB_body
+    400022: Micro_USB_contact
+    400024: Micro_USB_plastic_detail
+    400026: PCB_panel_1
+    400028: PCB_panel_2
+    400030: Resistor_1
+    400032: Resistor_2
+    400034: Solar_panels
+    400036: Solder
+    400038: "\u0421onnector"
+    2100000: Titanium
+    2100002: Alluminium
+    2100004: PCB_panels_1
+    2100006: Solar_panel
+    2100008: Copper
+    2100010: "\u0421onnector_and_screw_steel"
+    2100012: Circuit_board
+    2100014: Bridge
+    2100016: Graphite
+    2100018: Ceramics
+    2100020: PCB_panels_2
+    2100022: Resistor_1
+    2100024: Resistor_2
+    2100026: Solder
+    2100028: Micro_USB_steel
+    2100030: Micro_USB_plastic
+    2300000: Bridge
+    2300002: Carcass
+    2300004: Ceramic_detail
+    2300006: Circuit_board
+    2300008: Copper_detail_1
+    2300010: Copper_detail_2
+    2300012: Graphites_detail
+    2300014: Hexagon_screws
+    2300016: Legs
+    2300018: Micro_USB_body
+    2300020: Micro_USB_contact
+    2300022: Micro_USB_plastic_detail
+    2300024: PCB_panel_1
+    2300026: PCB_panel_2
+    2300028: Resistor_1
+    2300030: Resistor_2
+    2300032: Solar_panels
+    2300034: Solder
+    2300036: "\u0421onnector"
+    3300000: Bridge
+    3300002: Carcass
+    3300004: Ceramic_detail
+    3300006: Circuit_board
+    3300008: Copper_detail_1
+    3300010: Copper_detail_2
+    3300012: Graphites_detail
+    3300014: Hexagon_screws
+    3300016: Legs
+    3300018: Micro_USB_body
+    3300020: Micro_USB_contact
+    3300022: Micro_USB_plastic_detail
+    3300024: PCB_panel_1
+    3300026: PCB_panel_2
+    3300028: Resistor_1
+    3300030: Resistor_2
+    3300032: Solar_panels
+    3300034: Solder
+    3300036: "\u0421onnector"
+    4300000: Legs
+    4300002: Carcass
+    4300004: PCB_panel_1
+    4300006: Solar_panels
+    4300008: Micro_USB_contact
+    4300010: "\u0421onnector"
+    4300012: Circuit_board
+    4300014: Bridge
+    4300016: Graphites_detail
+    4300018: Copper_detail_2
+    4300020: Ceramic_detail
+    4300022: Copper_detail_1
+    4300024: PCB_panel_2
+    4300026: Resistor_1
+    4300028: Resistor_2
+    4300030: Solder
+    4300032: Hexagon_screws
+    4300034: Micro_USB_body
+    4300036: Micro_USB_plastic_detail
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
